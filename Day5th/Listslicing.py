@@ -1,0 +1,16 @@
+l=[1,2,3,4.4,"Dharti","Tops","Apple",1458,100,125,1,2,4,56,10,"Py0",True,200,300,500,False]
+
+print(l[:20])
+print(l[13: :4])
+print(l[1:11:11])
+print(l[: :10])
+print(l[5:21:5])
+print(l[2::2])
+print(l[-15: :5])
+print(l[-20: :3])
+print(l[:-21:])
+print(l[-1: :])
+print(l[-21:1: ])
+print(l[: :-5])
+print(l[-17:-2:-2])
+print(l[-17:-2:])
