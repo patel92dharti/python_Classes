@@ -9,9 +9,7 @@ try:
     index = int(input("Enter the Index number:"))
     print("Index Value", l[index])
     da=str(list[l])
-    #print(da)
-    #data=open("data.txt","w")
-
+    data.write(da)
 
 except Exception as e:
     print("Exeption Caught:",e)
